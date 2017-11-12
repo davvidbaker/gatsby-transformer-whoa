@@ -1,2 +1,2 @@
-# gatsby-transormer-whoa
+# gatsby-transformer-whoa
 (Nothing to see here! yet!) 😜
