@@ -1,5 +1,6 @@
 {
   "name": "gatsby-transformer-whoa",
+  "version": "0.0.1",
   "description": "(Nothing to see here! yet!) 😜",
   "scripts": {
     "build": "babel src --out-dir . --ignore __tests__",
